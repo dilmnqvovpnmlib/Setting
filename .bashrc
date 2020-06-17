@@ -9,3 +9,4 @@ alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
 
+PS1='\[\e[1;34m\][\u@\h \W]\\$ \[\e[m\]'
